@@ -19,7 +19,7 @@ Goal of the program: order management
 
 ### Nawigacja
 
-Po aplikacji można poruszać się klikając odpowiednio w kolejne przyciski widoczne odpowiednio w górnej belce programu lub poprzez naciśnięcie któregoś z dolnych przycisków: 'Load external files', 'Visualisation', 'Generate report'. 
+Po aplikacji można poruszać się klikając odpowiednio w kolejne przyciski widoczne w górnej belce programu lub poprzez naciśnięcie któregoś z dolnych przycisków: 'Load external files', 'Visualisation', 'Generate report'. 
 
 ### Ładowanie bazy danych
 
@@ -33,4 +33,4 @@ Naciśnięcie przycisku z lupą powoduje przejście do trybu graficznego bazy da
 
 ![3](https://user-images.githubusercontent.com/40712810/54930520-b28df280-4f17-11e9-96ab-b6bfa770e92f.png)
 
-Powyżej została przedstawiona sekcja odpowiedzialna za generowanie raportów. Wybór danych, które mają zostać umieszczone w raporcie jest intuicyjny - dodatkowo aplikacja czuwa nad poprawnym wyborem odpowiednich elementów. Zaznaczenie któregoś z pól umieszczonych w grupie 'Multiple data' odblokowuje dodatkowo możliwość posortowania wybranych zamówień zgodnie z kryterium z grupy 'Group orders by'. Zaznaczenie 'Orders in price range' umożliwia dodatkowo wprowadzenie zakresu cenowego zamówień. Raport może zostać również spersonalizowany pod kątem konkretnego klienta - aby tego dokonać nalezy podać jego 'ClientID' w polu tekstowym poprzedzonym 'Select client ID'. Prdzed wygenerowaniem raportu należy określić jego nazwę (domyślna nazwa to ExampleName). Nazwa pliku nie może pozostać pusta. Generacji raportu doknujemy poprzez naciśnięcie przycisku z ołówkiem. Stworzony raport zostanie zapisany do folderu OrderOrganizer/Reports/NazwaPliku.csv.
+Powyżej została przedstawiona sekcja odpowiedzialna za generowanie raportów. Wybór danych, które mają zostać umieszczone w raporcie jest intuicyjny - dodatkowo aplikacja czuwa nad poprawnym wyborem odpowiednich elementów. Zaznaczenie któregoś z pól umieszczonych w grupie 'Multiple data' odblokowuje dodatkowo możliwość posortowania wybranych zamówień zgodnie z kryterium z grupy 'Group orders by'. Zaznaczenie 'Orders in price range' umożliwia dodatkowo wprowadzenie zakresu cenowego zamówień. Raport może zostać również spersonalizowany pod kątem konkretnego klienta - aby tego dokonać nalezy podać jego 'ClientID' w polu tekstowym poprzedzonym 'Select client ID'. Przed wygenerowaniem raportu należy określić jego nazwę (domyślna nazwa to ExampleName). Nazwa raportu nie może pozostać pusta. Generacji raportu doknujemy poprzez naciśnięcie przycisku z ołówkiem. Stworzony raport zostanie zapisany do folderu OrderOrganizer/Reports/NazwaPliku.csv.
