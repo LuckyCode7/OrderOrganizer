@@ -1,0 +1,7 @@
+packages/
+.vs/
+OrderOrganizer/bin/
+OrderOrganizer/obj/
+OrderOrganizerTest/bin/
+OrderOrganizerTest/obj/
+

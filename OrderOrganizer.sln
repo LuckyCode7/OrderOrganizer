@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderOrganizer", "OrderOrganizer\OrderOrganizer.csproj", "{D81C114F-806D-49E7-91A1-37B400F0C408}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{8B23964F-B759-40C3-AA08-3FB8A3685C53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderOrganizerTest", "OrderOrganizerTest\OrderOrganizerTest.csproj", "{AA3F080D-2B06-460C-BD06-D04D03329417}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D81C114F-806D-49E7-91A1-37B400F0C408}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D81C114F-806D-49E7-91A1-37B400F0C408}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D81C114F-806D-49E7-91A1-37B400F0C408}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D81C114F-806D-49E7-91A1-37B400F0C408}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA3F080D-2B06-460C-BD06-D04D03329417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA3F080D-2B06-460C-BD06-D04D03329417}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA3F080D-2B06-460C-BD06-D04D03329417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA3F080D-2B06-460C-BD06-D04D03329417}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AA3F080D-2B06-460C-BD06-D04D03329417} = {8B23964F-B759-40C3-AA08-3FB8A3685C53}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3568D788-3843-496C-8E48-CA4614654F17}
+	EndGlobalSection
+EndGlobal

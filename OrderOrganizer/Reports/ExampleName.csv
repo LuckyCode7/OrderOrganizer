@@ -1,0 +1,23 @@
+Generated: 2019-03-25 13:48:40
+Quantity Of All [ClientID: 1] Orders: 8
+Total Amount Of [ClientID: 1] Orders: 110
+Number Of [ClientID:  1] Orders Grouped By Name: 2
+Average Value Of [ClientID: 1] Order: 13,75
+List of all [ClientID:1] orders in price range from 0.00 to 100.00
+ClientID [1] RequestID [1] Name [Bułka] Quantity [1] Price [10,00]
+ClientID [1] RequestID [1] Name [Chleb] Quantity [2] Price [15,00]
+ClientID [1] RequestID [1] Name [Bułka] Quantity [1] Price [10,00]
+ClientID [1] RequestID [2] Name [Chleb] Quantity [5] Price [15,00]
+ClientID [1] RequestID [2] Name [Chleb] Quantity [2] Price [15,00]
+ClientID [1] RequestID [2] Name [Chleb] Quantity [5] Price [15,00]
+ClientID [1] RequestID [2] Name [Chleb] Quantity [2] Price [15,00]
+ClientID [1] RequestID [2] Name [Chleb] Quantity [5] Price [15,00]
+List of all [ClientID: 1] orders:
+ClientID [1] RequestID [1] Name [Bułka] Quantity [1] Price [10,00]
+ClientID [1] RequestID [1] Name [Chleb] Quantity [2] Price [15,00]
+ClientID [1] RequestID [1] Name [Bułka] Quantity [1] Price [10,00]
+ClientID [1] RequestID [2] Name [Chleb] Quantity [5] Price [15,00]
+ClientID [1] RequestID [2] Name [Chleb] Quantity [2] Price [15,00]
+ClientID [1] RequestID [2] Name [Chleb] Quantity [5] Price [15,00]
+ClientID [1] RequestID [2] Name [Chleb] Quantity [2] Price [15,00]
+ClientID [1] RequestID [2] Name [Chleb] Quantity [5] Price [15,00]
